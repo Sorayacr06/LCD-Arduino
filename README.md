@@ -11,6 +11,6 @@ Requisitos  : WOKWI, Arduino, BreadBoard, Ultrasonidos, LCD
 
 Tiempo      : 8 horas
 
-Enalaces de interés: **Project** (https://wokwi.com/projects/391612802550889473)
+Enalaces de interés: [**Project**](https://wokwi.com/projects/391612802550889473)
 
 
